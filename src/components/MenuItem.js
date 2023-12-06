@@ -1,4 +1,3 @@
-// src/components/MenuItem.js
 import React from 'react';
 import { isValidUrl } from '../helpers';
 

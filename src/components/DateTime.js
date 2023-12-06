@@ -1,4 +1,3 @@
-// DateTime.js
 import React from 'react';
 import CurrentDate from './CurrentDate';
 import CurrentTime from './CurrentTime';

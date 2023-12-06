@@ -1,4 +1,3 @@
-// App.js
 import React from 'react';
 import Header from './components/Header';
 import Footer from './components/Footer';
@@ -17,7 +16,7 @@ function App() {
   return (
     <Router> 
       <div className="app">
-      <Header title="ALEX" logoImagePath="/fish-spinning.gif" />
+      <Header title="Title" logoImagePath="/monke.gif" />
         <div className="main-content">
           <SideBar title="SideBar" menuList={menuList} />
           <Content title="Content" />

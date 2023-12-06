@@ -1,4 +1,3 @@
-// src/helpers.js
 let idCounter = 1;
 
 export const getId = (key = 'default') => {

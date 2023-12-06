@@ -1,8 +1,8 @@
-// Header.js
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Logo from './Logo';
 import DateTime from './DateTime'; 
+import './Header.css';
 
 const Header = ({ title, logoImagePath }) => {
   return (
